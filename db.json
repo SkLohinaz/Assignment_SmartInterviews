@@ -1,0 +1,254 @@
+{
+  "seller": [
+    {
+      "name": "sam sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": "2"
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": "3"
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": "4"
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": "5"
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": "6"
+    },
+    {
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@test.com",
+      "id": "7"
+    },
+    {
+      "name": "bhasker",
+      "password": "abc@123",
+      "email": "bhasker@test.com",
+      "id": "8"
+    },
+    {
+      "id": "31fd",
+      "name": "",
+      "password": "Lohinaz@123",
+      "email": "shaik lohinaz"
+    }
+  ],
+  "products": [
+    {
+      "name": "Charles Dickins ",
+      "price": "550",
+      "category": "Book",
+      "weight": "550",
+      "description": "The Adventure of Oilver Twist",
+      "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781684129058/charles-dickens-four-novels-9781684129058_hr.jpg",
+      "id": "1"
+    },
+    {
+      "name": "The Last Collection",
+      "price": "350",
+      "category": "book",
+      "weight": "350",
+      "description": "A Novel of Elsa Schiaparelli and coco chanel",
+      "image": "https://shereads.com/wp-content/uploads/2019/04/91tqbxGjixL.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Where the lights enters",
+      "price": "400",
+      "category": "book",
+      "weight": "400",
+      "description": "Sara Donati",
+      "image": "https://images.squarespace-cdn.com/content/v1/59e235dcd7bdcec81eb68962/1575923349583-5KH4TDVO8RXU4XBNSI0M/ke17ZwdGBToddI8pDm48kD755XqWqn8HkRX8WSTt5GJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URwn7vetbNoOrjGqAVoZN5bz1XPY0_Ev1nDpBBPOnwUda4oDI66FEaoPF3aKRzQZjg/Historical+Fiction+Where+the+Light+Enters+by+Sara+Donati.jpg",
+      "id": "3"
+    },
+    {
+      "name": "The Sound of the Hours",
+      "price": "500",
+      "category": "book",
+      "weight": "500",
+      "description": "The Sound of the hours",
+      "image": "https://images.squarespace-cdn.com/content/v1/59e235dcd7bdcec81eb68962/1575923349157-3BNDH7JR5UF7ZU0A5A48/ke17ZwdGBToddI8pDm48kJTNl5E2hijD7J-sESO_BVN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ue3pExvFiO6E9rv2lljq9S2_mVV9EJlaTc_26ArkrjDTJilkUu7eIyBb-AQDEk_nZw/Historical+Fiction+The+Sound+of+the+Hours+by+Karen+Campbell.jpg",
+      "id": "4"
+    },
+    {
+      "name": "The lost hours",
+      "price": "450",
+      "category": "book",
+      "weight": "450",
+      "description": "Time only matters when it was running... ",
+      "image": "https://th.bing.com/th/id/OIP.ATVdWtMTJ0lK_qL7KQfCoAAAAA?w=326&h=500&rs=1&pid=ImgDetMain",
+      "id": "5"
+    },
+    {
+      "name": "Vanishing Hour",
+      "price": "500",
+      "category": "book",
+      "weigth": "500",
+      "description": "Vanishing Hour",
+      "image": "https://img1.od-cdn.com/ImageType-100/2343-1/%7B8ADBF096-6E75-46EB-97B6-DFC0DA1EF49A%7DIMG100.JPG",
+      "id": "6"
+    },
+    {
+      "name": "The Silence between Dawn",
+      "price": "456",
+      "category": "book",
+      "weight": "500",
+      "description": "The bravest of the world is women in love",
+      "image": "https://m.media-amazon.com/images/I/51c8PWTUlmL.jpg",
+      "id": "6"
+    },
+    {
+      "name": "The Songbird's call",
+      "price": "300",
+      "category": "book",
+      "weight": "500",
+      "description": "Time to Dance to another tune",
+      "image": "https://globalbookclub.s3.amazonaws.com/resources/1535118/the_songbirds_call_the_songbirds_of_darling_bay_2/cover.jpg",
+      "id": "7"
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "abc123",
+      "id": "1"
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123",
+      "id": "2"
+    },
+    {
+      "name": "hyden",
+      "email": "hyden@user.com",
+      "password": "abc123",
+      "id": "3"
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": "4"
+    },
+    {
+      "id": "dfba",
+      "name": "shaik lohinaz",
+      "email": "shaiklohi@gmail.com",
+      "password": "Lohinaz@123"
+    },
+    {
+      "id": "675c",
+      "name": "Lohinaz",
+      "email": "shaiklohi@gmail.com",
+      "password": "Lohinaz@123"
+    },
+    {
+      "id": "a98e",
+      "name": "Poojitha",
+      "email": "poojithareddygujjula12@gmail.com",
+      "password": "Lohinaz@123"
+    }
+  ],
+  "cart": [
+    {
+      "name": "Samsung m 40 a ",
+      "price": "550",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 3,
+      "id": "7"
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 3,
+      "id": "8"
+    },
+    {
+      "id": "b9d7",
+      "name": "Charles Dickins ",
+      "price": "550",
+      "category": "Book",
+      "weight": "550",
+      "description": "The Adventure of Oilver Twist",
+      "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781684129058/charles-dickens-four-novels-9781684129058_hr.jpg",
+      "quantity": 1,
+      "productId": "1",
+      "userId": "dfba"
+    },
+    {
+      "id": "01fd",
+      "name": "Charles Dickins ",
+      "price": "550",
+      "category": "Book",
+      "weight": "550",
+      "description": "The Adventure of Oilver Twist",
+      "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781684129058/charles-dickens-four-novels-9781684129058_hr.jpg",
+      "quantity": 1,
+      "productId": "1",
+      "userId": "675c"
+    }
+  ],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "noida sector x",
+      "contact": "9999",
+      "totalPrice": 104750,
+      "userId": 1,
+      "id": "1"
+    },
+    {
+      "email": "anil@test.com",
+      "address": "noida sector x",
+      "contact": "8877",
+      "totalPrice": 6100,
+      "userId": 1,
+      "id": "3"
+    },
+    {
+      "id": "1530",
+      "email": "shaiklohi@gmail.com",
+      "address": "Murikipudi",
+      "contact": "9676939275",
+      "totalPrice": 1200,
+      "userId": "dfba"
+    },
+    {
+      "id": "c01f",
+      "email": "shaiklohi@gmail.com",
+      "address": "Murikipudi",
+      "contact": "9676939275",
+      "totalPrice": 500,
+      "userId": "a98e"
+    }
+  ]
+}
